@@ -1,17 +1,5 @@
 package copying.array;
 
-public class Case2 {
-                   
-	         
-	                   public static void main(String[] args) {
-	                	   {
-<<<<<<< HEAD
-array of ints
-=======
-	                	        int[] arr = {12, 21, 0, 5, 7};   //Declaring and initializing an array of ints
->>>>>>> 2e30e17025e47d5d59d1b5fb657957a6efb2b96f
-	                	 
-	                	        int[] b = new int[a.length];             //Declaring and instantiating another array of ints with same length
 	                	 
 	                	        for (int i = 0; i < a.length; i++)
 	                	        {
