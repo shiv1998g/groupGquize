@@ -1,9 +1,10 @@
 package com.ps;
 //first commit
 //secound commmit
+//third commit on git
 public class Calculator {
   
-	  int a;
+	  int a=10;
 	  int b;
 	 
 	public static void main(String[] args) {
