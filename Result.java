@@ -6,7 +6,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.Scanner;
   shivkumar 15/08/2023
-public class Result {
+public class Result {try to commit changes on shivkumar repo on 
 	static PreparedStatement pr = null;
 	static Scanner sc = new Scanner(System.in);
 	static Connection connection = Getdbconne.getconnection();
