@@ -3,7 +3,7 @@ package com.quizecom;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.util.Scanner;
-
+//hello
 public class Quize {
 	static PreparedStatement pr = null;
 	static Scanner sc = new Scanner(System.in);
