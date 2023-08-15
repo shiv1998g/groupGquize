@@ -5,7 +5,7 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.Scanner;
-
+  shivkumar 15/08/2023
 public class Result {
 	static PreparedStatement pr = null;
 	static Scanner sc = new Scanner(System.in);
