@@ -3,9 +3,9 @@ package com.ps;
 //secound commmit
 public class Calculator {
   
-	  int a=500;
-	  int b;
-	 
+       int a;
+	  int a=10;
+	  int b;	 
 	public static void main(String[] args) {
 		int result=sum(10,20);
 		if(result==30)
