@@ -6,6 +6,7 @@ import java.sql.ResultSet;
 import java.util.List;
 import java.util.Scanner;
 //15/08/2023 make changes try
+make changes on our machine
 public class Output {
 	static PreparedStatement pr = null;
 	static Scanner sc = new Scanner(System.in);
