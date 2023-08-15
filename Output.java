@@ -5,7 +5,7 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.util.List;
 import java.util.Scanner;
-
+//15/08/2023 make changes try
 public class Output {
 	static PreparedStatement pr = null;
 	static Scanner sc = new Scanner(System.in);
