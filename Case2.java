@@ -1,7 +1,7 @@
 package copying.array;
 
 	                	 
-	                	        for (int i = 0; i < a.length; i++)
+	                	        for (int i = 10; i < a.length; i++)
 	                	        {
 	                	            b[i] = a[i];
 	                	        System.out.println(b[i]);
