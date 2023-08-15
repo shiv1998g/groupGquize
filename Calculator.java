@@ -3,7 +3,7 @@ package com.ps;
 //secound commmit
 public class Calculator {
   
-	  int a;
+	  int a=500;
 	  int b;
 	 
 	public static void main(String[] args) {
